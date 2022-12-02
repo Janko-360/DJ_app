@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DEMO_TABLE_DATA>
+  <COLUMNS>
+    <COLUMN columnId="1" name="Song" width="150"/>
+    <COLUMN columnId="2" name="Length" width="70"/>
+    <COLUMN columnId="3" name="kHz" width="50"/>
+    <COLUMN columnId="4" name="Type" width="50"/>
+    <COLUMN columnId="5" name="Size" width="70"/>
+    <COLUMN columnId="6" name="Date" width="100"/>
+    <COLUMN columnId="7" name="Deck-1" width="100"/>
+    <COLUMN columnId="8" name="Deck-2" width="100"/>
+    <COLUMN columnId="9" name="Path" width="100"/>
+    <COLUMN columnId="10" name="Show" width="0"/>
+  </COLUMNS>
+  <DATA/>
+</DEMO_TABLE_DATA>
