@@ -16,3 +16,6 @@ The using the two decks, one can mix different audio tracks. Deck controls inclu
   - C++ 
   - Projucer Library   
 With projucer installed one can just compile all cpp files with the aid of projuicer. The .jucer file is essential to compile the application with the juce framework. 
+
+## License: 
+GPL-3.0
